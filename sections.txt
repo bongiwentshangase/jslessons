@@ -1,0 +1,16 @@
+1. setup - download vscode live server
+
+2. intro variables diagram variables and console.log
+
+3. swap
+
+4. variable backtics and concatenation
+
+5. variable operations
+
+5.functions
+
+5. conditionals 
+
+7. loops
+
